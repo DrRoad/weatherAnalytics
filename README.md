@@ -4,3 +4,5 @@
 
 This script uses [RforecastIO library from hrbrmstr](https://github.com/hrbrmstr/Rforecastio)
 Needs locations(lat&long) and timestamps input files in csv format
+
+-Jeevan
